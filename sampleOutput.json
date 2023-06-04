@@ -1,0 +1,72 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Fox News",
+      "title": "Buttigieg on Kamala Harris' Ian 'equity' controversy: Some see 'politics where it doesn't need to be'",
+      "description": "US Department of Transportation Secretary Peter Buttigieg responded to remarks from Georgia Congresswoman Marjorie Taylor Greene as well as Kamala Harris.",
+      "url": "https://www.foxnews.com/media/buttigieg-kamala-harris-ian-equity-controversy-some-see-politics-where-doesnt-need-be",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/06/AP22169654291991.jpg",
+      "publishedAt": "2022-10-05T01:37:19.2124964Z",
+      "content": "Transportation Secretary Pete Buttigieg was pressed on comments from Vice President Kamala Harris that critics said suggested Hurricane Ian relief aid be delegated based on factors other than purely … [+4528 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Henry Olsen",
+      "title": "Herschel Walker’s alleged hypocrisy on abortion likely won’t matter",
+      "description": "Politics has a way of warping what people value.",
+      "url": "https://www.washingtonpost.com/opinions/2022/10/04/walker-abortion-scandal-georgia-will-it-matter/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7XNMRHR7OMI63DDOSODL27GYEY.jpg&w=1440",
+      "publishedAt": "2022-10-04T18:15:01Z",
+      "content": "The report that Republican nominee Herschel Walker allegedly paid for an ex-girlfriends abortion in 2009 has thrown Georgias ultra-competitive Senate race for a loop. No one knows how this will turn … [+4482 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times https://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": null,
+      "publishedAt": "2022-08-30T16:37:43.8583104Z",
+      "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+    },
+    {
+      "source": {
+        "id": "the-american-conservative",
+        "name": "The American Conservative"
+      },
+      "author": null,
+      "title": "Politics Archives - The American Conservative",
+      "description": null,
+      "url": "https://www.theamericanconservative.com/category/politics/",
+      "urlToImage": null,
+      "publishedAt": "2022-07-07T21:37:27.3936289Z",
+      "content": null
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": null,
+      "title": "Daily Briefing",
+      "description": "The day's top stories, from sports to movies to politics to world events.",
+      "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+      "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+      "publishedAt": "2021-08-15T15:35:07+00:00",
+      "content": "The day's top stories, from sports to movies to politics to world events."
+    },
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": null,
+      "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+      "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+      "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+      "publishedAt": "2019-11-13T04:41:00Z",
+      "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+    }
+  ]
+}
